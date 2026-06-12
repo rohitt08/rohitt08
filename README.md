@@ -1,7 +1,7 @@
 <div align="center">
   <h1 align="center">Hi there, I'm Rohit! 👋</h1>
   <p align="center">
-    <strong>Frontend Developer | UI/UX Enthusiast | React Ecosystem</strong>
+    <strong>Full Stack Developer | UI/UX Enthusiast | React & Node Ecosystem</strong>
   </p>
   <p align="center">
     <a href="https://www.linkedin.com/in/rohit-kumar-3b2096282/">
@@ -19,7 +19,7 @@
 
 ## 👨‍💻 About Me
 
-I am a passionate **Frontend Developer** with a strong focus on building highly performant, accessible, and visually stunning web applications. I bridge the gap between design and engineering, ensuring that complex problems are solved with elegant, user-centric interfaces.
+I am a passionate **Full Stack Developer** with a strong focus on building highly performant, accessible, and visually stunning web applications. I bridge the gap between backend logic and frontend design, ensuring that complex problems are solved with elegant, user-centric interfaces.
 
 - ⚡ **Core Focus:** Building responsive Single Page Applications (SPAs) with modern React and Next.js.
 - 🎨 **Design Philosophy:** Clean code, modular architecture, and pixel-perfect UI/UX implementation.
