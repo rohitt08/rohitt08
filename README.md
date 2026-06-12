@@ -29,10 +29,10 @@ I am a passionate **Frontend Developer** with a strong focus on building highly 
 
 ## 🚀 Featured Projects
 
-### [CrewNex](https://github.com/rohitt08/CrewNex)
-A modern, high-performance platform designed for student builders and hackathon participants to collaborate, form teams, and launch projects. 
-- **Tech Stack:** React, Tailwind CSS, Node.js, Express, MongoDB.
-- **Highlights:** Implemented highly optimized Liquid Glass UI components, secure JWT authentication, and a scalable project exploration interface.
+### [HabitIQ](https://github.com/rohitt08/HabitIQ)
+A smart, interactive habit-tracking application designed to boost productivity and build lasting daily routines. 
+- **Tech Stack:** React, Tailwind CSS, Socket.io, Recharts, Node.js.
+- **Highlights:** Features intuitive drag-and-drop task management, real-time data synchronization, and comprehensive analytics for tracking personal growth.
 
 ### CreatorXLife
 A modern, fully responsive web interface focusing on seamless user experiences and cutting-edge design aesthetics.
