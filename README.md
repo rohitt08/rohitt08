@@ -21,9 +21,9 @@
 
 I am a passionate **Full Stack Developer** with a strong focus on building highly performant, accessible, and visually stunning web applications. I bridge the gap between backend logic and frontend design, ensuring that complex problems are solved with elegant, user-centric interfaces.
 
-- ⚡ **Core Focus:** Building responsive Single Page Applications (SPAs) with modern React and Next.js.
+- ⚡ **Core Focus:** Building responsive Single Page Applications (SPAs) with modern React.js
 - 🎨 **Design Philosophy:** Clean code, modular architecture, and pixel-perfect UI/UX implementation.
-- 🌱 **Currently Exploring:** Advanced TypeScript patterns, backend integrations with Node.js, and web accessibility best practices.
+- 🌱 **Currently Exploring:** Advanced Software patterns, backend integrations with Node.js, and web accessibility best practice
 
 ---
 
